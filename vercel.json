@@ -2,7 +2,7 @@
     "rewrites": [
       {
         "source": "/docs/:path*",
-        "destination": "https://https://www.octoblok.com/:path*"
+        "destination": "https://www.octoblok.com/:path*"
       }
     ]
   }
